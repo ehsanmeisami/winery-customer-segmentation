@@ -99,3 +99,6 @@ pandas data frame) any irrelevant rows/columns you may find.
         (don't forget you should be able to interpret and explain your results
         to non-technical managers).
 3. Suggest business applications for the findings.
+
+
+Ehsan Meysami
